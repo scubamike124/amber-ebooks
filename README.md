@@ -1,16 +1,16 @@
-# Amber E-Books (catalog hub)
+# Amber E-Books
 
-**All paid Amber ebook listings in one place.** Each title links to its GitHub listing repo and to Stripe checkout on Amber HQ.
+## Buy all titles (PDF)
 
-**Format:** after purchase you download a **PDF** (short or complete edition).
+**Live store (all 33 books):** https://hq.amberoneai.com/store/ebooks
 
-Full store: https://hq.amberoneai.com/store/ebooks
+Every title is sold as a **PDF** after Stripe checkout on Amber HQ.
 
-> Note: This account has many non-ebook repos (APIs, apps, factory tools). **Ebook listings = 33** under the mber-ebook topic.
+Shortcut path (after next HQ deploy): https://hq.amberoneai.com/ebooks
 
-## All titles (33)
+## GitHub listing repos
 
-| # | Title | GitHub listing | Buy short (PDF) | Buy complete (PDF) |
+| # | Title | Listing | Buy short PDF | Buy complete PDF |
 |---:|---|---|---|---|
 | 1 | AI Automation for Small Businesses: A Practical Guide | [repo](https://github.com/scubamike124/amber-ebook-ai-automation-for-small-businesses) | [$9.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_ai-automation-for-small-businesses_mt3ippdu&product=short) | [$30.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_ai-automation-for-small-businesses_mt3ippdu&product=long) |
 | 2 | AI for Freelancers: Mastering the Future of Work | [repo](https://github.com/scubamike124/amber-ebook-ai-for-freelancers) | [$9.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_ai-for-freelancers_mt3g9l30&product=short) | [$29.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_ai-for-freelancers_mt3g9l30&product=long) |
@@ -45,15 +45,3 @@ Full store: https://hq.amberoneai.com/store/ebooks
 | 31 | The Remote Work Productivity Blueprint | [repo](https://github.com/scubamike124/amber-ebook-remote-work-productivity) | [$9.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_remote-work-productivity_mt2b5ql6&product=short) | [$29.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_remote-work-productivity_mt2b5ql6&product=long) |
 | 32 | TikTok Marketing Mastery for Small Businesses | [repo](https://github.com/scubamike124/amber-ebook-tiktok-marketing-for-small-businesses) | [$9.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_tiktok-marketing-for-small-businesses_mt3i0r3j&product=short) | [$29.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_tiktok-marketing-for-small-businesses_mt3i0r3j&product=long) |
 | 33 | Time Mastery for Entrepreneurs: Navigating Modern Challenges | [repo](https://github.com/scubamike124/amber-ebook-time-management-for-entrepreneurs) | [$9.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_time-management-for-entrepreneurs_mt2b6z6r&product=short) | [$29.99](https://hq.amberoneai.com/store/ebooks?bookId=ebook_time-management-for-entrepreneurs_mt2b6z6r&product=long) |
-
-## PDF delivery
-
-1. Click a Buy link (or open the store)
-2. Pay with Stripe on hq.amberoneai.com
-3. Success page → **Download PDF**
-
-Free PDFs are not hosted in these repos (paid-only listings).
-
-## Finding them on GitHub
-
-Topic filter: https://github.com/scubamike124?tab=repositories&q=amber-ebook&type=public
