@@ -4,6 +4,8 @@
 
 **Live store (36 books):** https://hq.amberoneai.com/store/ebooks
 
+Last verified 2026-08-29: 36/36 passed manuscript + PDF + Stripe scan. Listing-only — no free PDFs.
+
 Every title is sold as a **PDF** after Stripe checkout.
 
 ## Titles
